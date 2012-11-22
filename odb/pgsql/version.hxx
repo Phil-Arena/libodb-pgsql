@@ -36,8 +36,8 @@
 // libodb-pgsql version: odb interface version plus the bugfix
 // version.
 //
-#define LIBODB_PGSQL_VERSION     2010000
-#define LIBODB_PGSQL_VERSION_STR "2.1.0"
+#define LIBODB_PGSQL_VERSION     2010100
+#define LIBODB_PGSQL_VERSION_STR "2.1.1"
 
 #include <odb/post.hxx>
 
